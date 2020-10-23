@@ -26998,6 +26998,23 @@ export const data = {
         state: "Cebu",
         country: "Philippines",
       },
-    }
+    },
+    {
+      id: uuidv4(),
+      name: "Can Dinh Kien",
+      img:
+        "https://avatars0.githubusercontent.com/u/50330007?s=460&u=d255cfe739537324f99b6f5fb2ac98daebd527cc&v=4",
+      links: {
+        website: "https://candinhkien.netlify.app",
+        linkedin: "https://linkedin.com/cankien93",
+        github: "https://github.com/cankien93",
+      },
+      jobTitle: "Web Developer",
+      location: {
+        city: "Nagoya",
+        state: "Aichi",
+        country: "Japan",
+      },
+    },
   ],
 }
